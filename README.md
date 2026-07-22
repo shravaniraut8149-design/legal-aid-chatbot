@@ -1,4 +1,6 @@
 An AI-powered multi-agent legal assistant built using IBM Watson Orchestrate, IBM Granite Models, RAG, and IBM watsonx.ai.
+![Homepage](Screenshot%20(152).png)
+
 
 📖 Overview
 
