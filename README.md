@@ -6,25 +6,25 @@ The Closer AI is an AI-powered legal assistance platform that simplifies legal i
 
 Instead of relying on a single chatbot, the system routes user queries to specialized AI agents capable of:
 
-📜 Explaining legal concepts
-📄 Reviewing legal documents
-⚖️ Researching case law
-✅ Checking compliance
-🔍 Retrieving relevant legal information using RAG
+1. 📜 Explaining legal concepts
+2. 📄 Reviewing legal documents
+3. ⚖️ Researching case law
+4. ✅ Checking compliance
+5. 🔍 Retrieving relevant legal information using RAG
 
 Disclaimer: The Closer AI provides educational legal information and does not replace professional legal advice.
 
 🚀 Features
-Multi-Agent AI Architecture
-Retrieval-Augmented Generation (RAG)
-Contract Review
-Legal Question Answering
-Compliance Checking
-Case Law Research
-IBM Watson Orchestrate Integration
-IBM Granite Models
-IBM watsonx.ai
-IBM Cloud Deployment
+1. Multi-Agent AI Architecture
+2. Retrieval-Augmented Generation (RAG)
+3. Contract Review
+4. Legal Question Answering
+5. Compliance Checking
+6. Case Law Research
+7. IBM Watson Orchestrate Integration
+8. IBM Granite Models
+9. IBM watsonx.ai
+10. IBM Cloud Deployment
 
 🏗 Architecture
 ## 🏗 Architecture
